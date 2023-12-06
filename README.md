@@ -1,6 +1,6 @@
 # ProgPrompt on VirtualHome
 
-This is a modified codebase for the paper [ProgPrompt: Generating Situated Robot Task Plans using Large Language Models](https://progprompt.github.io/). It contains code for replicating [the results](https://arxiv.org/abs/2209.11302) on the VirtualHome dataset. This is referenced from the [Original Code Release](https://github.com/NVlabs/progprompt-vh). There were some errors in the original code release, which have been rectified in this codebase. 
+This is a modified codebase for the paper [ProgPrompt: Generating Situated Robot Task Plans using Large Language Models](https://progprompt.github.io/). It contains code for replicating [the results](https://arxiv.org/abs/2209.11302) on the VirtualHome dataset. This is referenced from the [Original Code Release](https://github.com/NVlabs/progprompt-vh). There were some errors in the original code release, which have been rectified in this codebase. We present our results and analysis of the project in `Benchmark_Analysis.pdf`, where we highlight the key issues and weaknesses, and suggest possible improvements.
 
 ## Setup
 
